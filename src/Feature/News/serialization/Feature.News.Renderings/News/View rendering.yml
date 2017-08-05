@@ -1,0 +1,14 @@
+﻿---
+ID: "e9ecbc9b-bac9-4831-a652-8587f00507f3"
+Parent: "db7775fa-27d8-44e4-9e6c-08ade58ef4ed"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/News/View rendering
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170805T014201Z

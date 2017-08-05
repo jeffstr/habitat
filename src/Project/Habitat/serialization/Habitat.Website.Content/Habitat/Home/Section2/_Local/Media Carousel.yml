@@ -1,0 +1,14 @@
+﻿---
+ID: "35931402-6adc-47d5-9e6c-eae5cccc1d8e"
+Parent: "91bb4066-1291-4bea-9189-f92bd2dd1e6c"
+Template: "c18d3794-d126-4548-bfc8-89358de6e9c1"
+Path: /sitecore/content/Habitat/Home/Section2/_Local/Media Carousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170729T150041Z

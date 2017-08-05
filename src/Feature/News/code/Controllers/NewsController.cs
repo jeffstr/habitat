@@ -21,7 +21,7 @@
     public ActionResult NewsList()
     {
       var items = this.newsRepositoryFactory.Create(RenderingContext.Current.Rendering.Item).Get();
-      return this.View("NewsList", items);
+      return View("NewsList", items);
     }
 
     public ActionResult LatestNews()
@@ -29,7 +29,7 @@
       //TODO: change to parameter template
       var count = RenderingContext.Current.Rendering.GetIntegerParameter("count", 5);
       var items = this.newsRepositoryFactory.Create(RenderingContext.Current.Rendering.Item).GetLatestNews(count);
-      return this.View("LatestNews", items);
+      return View("LatestNews", items);
     }
   }
 }

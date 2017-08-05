@@ -1,15 +1,15 @@
 ﻿---
-ID: "b265c694-af8b-4894-96d7-66a3d6d703c5"
-Parent: "b16765ba-7b3e-4c5b-9937-bfc985f2550c"
+ID: "4f329f2f-d88c-4737-a0a8-ff435efa1d8e"
+Parent: "1d1f69c0-d34f-44c6-a6dc-49cea893b60c"
 Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
-Path: /sitecore/content/Habitat/Home/About Habitat/Introduction/_Local
+Path: /sitecore/content/Habitat/Home/About Habitat/Introduction/Article2/_Local
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
   Value: |
-    {F1C095E2-B3E0-46D0-B838-02A9E8B880D9}
+    {F5F30CDC-9003-4015-84EC-C3A7E3E50D5E}
     {F0369E1A-9030-4A05-A09C-EF09B664ED27}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160407T233739Z
+      Value: 20170713T012856Z

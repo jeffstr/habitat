@@ -1,0 +1,70 @@
+﻿---
+ID: "1d1f69c0-d34f-44c6-a6dc-49cea893b60c"
+Parent: "b16765ba-7b3e-4c5b-9937-bfc985f2550c"
+Template: "94a8c8e9-690b-4e65-98e7-f95800222767"
+Path: /sitecore/content/Habitat/Home/About Habitat/Introduction/Article2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{90EE8A12-8FE3-425D-9FEF-6D9EA1B1D95A}"
+              p:before="*"
+              s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}"
+              s:ph="/page-layout/section-narrow/col-narrow-1_89dc9ecc-593d-443a-8d6e-4215a9291688" />
+            <r
+              uid="{95ABD970-FE72-441D-9A15-8D5F3847BA03}"
+              p:after="r[@uid='{90EE8A12-8FE3-425D-9FEF-6D9EA1B1D95A}']"
+              s:ds="{DB5A3534-B9EE-441C-A042-737EE5152F0C}"
+              s:id="{F49C9252-47F3-406B-B311-E26EE4D1149B}"
+              s:ph="/page-layout/section-narrow/col-wide-1_89dc9ecc-593d-443a-8d6e-4215a9291688" />
+            <r
+              uid="{977D6379-1700-4246-A460-82352931113A}"
+              p:after="r[@uid='{95ABD970-FE72-441D-9A15-8D5F3847BA03}']"
+              s:ds="{12CFA7C1-B5BD-4C99-B6F4-221423F2E0E1}"
+              s:id="{F49C9252-47F3-406B-B311-E26EE4D1149B}"
+              s:ph="/page-layout/section-narrow/col-narrow-1_89dc9ecc-593d-443a-8d6e-4215a9291688/teaser-placeholder-3_d1bee24e-6a5a-49f9-93a0-8dc878a98c96" />
+            <r
+              uid="{A8204F77-A756-47B4-AE78-88E9121AE5D2}"
+              p:after="r[@uid='{977D6379-1700-4246-A460-82352931113A}']"
+              s:ds="{EC545DC1-F12B-4B22-8FEB-7F0A4211C0E8}"
+              s:id="{F49C9252-47F3-406B-B311-E26EE4D1149B}"
+              s:ph="/page-layout/section-narrow/col-narrow-1_89dc9ecc-593d-443a-8d6e-4215a9291688/teaser-placeholder-2_d1bee24e-6a5a-49f9-93a0-8dc878a98c96" />
+            <r
+              uid="{5A442FF6-5FCB-42EE-9B03-5AD2B9BCC85B}"
+              p:after="r[@uid='{A8204F77-A756-47B4-AE78-88E9121AE5D2}']"
+              s:id="{CA748838-E6D5-4BAD-9126-CAD10DD1B0DB}"
+              s:ph="/page-layout/section-narrow/col-narrow-1_89dc9ecc-593d-443a-8d6e-4215a9291688/teaser-placeholder-1_d1bee24e-6a5a-49f9-93a0-8dc878a98c96" />
+            <r
+              uid="{89DC9ECC-593D-443A-8D6E-4215A9291688}"
+              p:after="r[@uid='{5A442FF6-5FCB-42EE-9B03-5AD2B9BCC85B}']"
+              s:id="{831876B6-F9F1-463E-9DD5-7F93F1640590}"
+              s:ph="/page-layout/section-narrow" />
+          </d>
+        </r>
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Article2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170713T012800Z
+    - ID: "ac3fd4db-8266-476d-9635-67814d91e901"
+      Hint: Summary
+      Value: <p>This is a test.</p>
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Article2
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Article2

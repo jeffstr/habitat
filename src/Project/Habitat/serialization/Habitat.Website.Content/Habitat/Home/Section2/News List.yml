@@ -1,0 +1,14 @@
+﻿---
+ID: "0bddd693-8291-4e4f-ae18-b897e6ca19ef"
+Parent: "ebc6d0c6-4874-4895-bb8d-66432f29eb33"
+Template: "a99866e5-08e7-44d8-8a52-f8e26bcd3714"
+Path: /sitecore/content/Habitat/Home/Section2/News List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170507T220041Z

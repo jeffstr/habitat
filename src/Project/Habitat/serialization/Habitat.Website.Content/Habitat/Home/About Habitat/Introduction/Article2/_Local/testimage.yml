@@ -1,0 +1,17 @@
+﻿---
+ID: "db5a3534-b9ee-441c-a042-737ee5152f0c"
+Parent: "4f329f2f-d88c-4737-a0a8-ff435efa1d8e"
+Template: "f0369e1a-9030-4a05-a09c-ef09b664ed27"
+Path: /sitecore/content/Habitat/Home/About Habitat/Introduction/Article2/_Local/testimage
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170713T013419Z
+    - ID: "9f51dead-ad6e-41c2-9759-7be17eb474a4"
+      Hint: MediaImage
+      Value: "<image mediaid=\"{A127A6BF-3087-4495-BD07-7B7C5C77A621}\" />"
