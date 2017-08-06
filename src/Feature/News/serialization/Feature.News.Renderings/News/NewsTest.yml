@@ -1,9 +1,13 @@
 ﻿---
-ID: "e9ecbc9b-bac9-4831-a652-8587f00507f3"
+ID: "ca524fb8-3e7b-418d-844f-d16e9189e7e2"
 Parent: "db7775fa-27d8-44e4-9e6c-08ade58ef4ed"
 Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
-Path: /sitecore/layout/Renderings/Feature/News/View rendering
+Path: /sitecore/layout/Renderings/Feature/News/NewsTest
 DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/News/NewsTest.cshtml
 Languages:
 - Language: en
   Versions:
@@ -11,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170805T014201Z
+      Value: 20170805T020010Z

@@ -1,0 +1,36 @@
+﻿---
+ID: "c2dd795e-c179-407a-93f1-98aad0c7dd10"
+Parent: "de3a66b3-df38-484e-8494-d578004b07dc"
+Template: "b69277ad-e917-4b9f-9136-a12e0a3e462f"
+Path: /sitecore/content/Habitat/Home/Modules/Feature/News/News/2017/08/06/01/37/News Article2
+DB: master
+SharedFields:
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20170805T214100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170806T013714Z
+    - ID: "3437eaac-6ee8-460b-a33d-da1f714b5a93"
+      Hint: NewsImage
+      Value: "<image mediaid=\"{B401FBDE-2CE7-4B44-90AB-9A41DE9B95F9}\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: <p>sjsjsjsjss</p><p>sjsjsjs</p><p>sjsjsjs</p><p>sjsjsjsjs</p><p>sjsjsjs</p>
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: <p>This is the news summary of article 2</p>
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: This is the title of article 2
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: News Article2

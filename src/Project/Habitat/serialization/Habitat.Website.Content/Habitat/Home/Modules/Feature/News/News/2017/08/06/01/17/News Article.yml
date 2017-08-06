@@ -1,0 +1,42 @@
+﻿---
+ID: "f69ba222-00bc-4efd-8124-2fbfeabb682d"
+Parent: "7ae2a28a-3262-4617-81b1-43ae0e141125"
+Template: "b69277ad-e917-4b9f-9136-a12e0a3e462f"
+Path: /sitecore/content/Habitat/Home/Modules/Feature/News/News/2017/08/06/01/17/News Article
+DB: master
+SharedFields:
+- ID: "c464d2d7-3382-428a-bcdf-0963c60ba0e3"
+  Hint: NewsDate
+  Value: 20170805T212800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170806T011728Z
+    - ID: "3437eaac-6ee8-460b-a33d-da1f714b5a93"
+      Hint: NewsImage
+      Value: "<image mediaid=\"{F53A3B36-7FC8-4C58-B4CE-25963AB803B6}\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "801612c7-5e98-4e3c-80d2-a34d0eebcbda"
+      Hint: NewsBody
+      Value: |
+        <p>This is a new news article.</p>
+        <p>What do you think of it? I don't care. Because I care not what you think. That is just how I am to be rolling, rolling, rolling down the river.</p>
+        <p> </p>
+        <p><img alt="" src="-/media/A6650E045AB94BBCB95DA8DF067527F2.ashx?h=317&w=300&hash=8132276A9E8EBE709CFBB4D52EF07BD4C0C0CA01" style="height: 317px; width: 300px;"></p>
+        <p> </p>
+        <p> </p>
+    - ID: "9d08271a-1672-44dd-b7ef-0a6ec34fcba7"
+      Hint: NewsSummary
+      Value: <p>This is the summary. It's a really great summary. Love it.</p>
+    - ID: "bd9ecd4a-c0b0-4233-a3cd-d995519ac87b"
+      Hint: NewsTitle
+      Value: This is the title
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: News Article
